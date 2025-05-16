@@ -1,0 +1,4 @@
+review:
+  enable: true
+  mode: pr
+  language: en
